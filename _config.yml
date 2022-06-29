@@ -42,8 +42,8 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # these options tweak CSS, so should be valid CSS values.
 #
 # header-background: 
-header-text-color: "#e30918"
-# breadcrumbs-background: 
+# header-text-color: 
+breadcrumbs-background: "#e30918"
 # breadcrumbs-text-color: 
 # active-nav-color: 
 # link-color:
