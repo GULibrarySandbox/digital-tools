@@ -3,6 +3,9 @@ nav_order: 1
 title: Introduction
 ---
 
+
+
+<!-- 
 Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
 It features a sidebar navigation providing clear structure for step by step content.
@@ -10,7 +13,7 @@ The sidebar nav supports pages nested into sections to help organize your lesson
 
 All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
 
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
+To use Lesson Template to create your own website  make a copy and replace the template content with your own!
 
 ### Why?
 
@@ -38,4 +41,4 @@ For example:
 There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
 If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
 All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
+{% include alert.html text=text color=secondary %} -->
