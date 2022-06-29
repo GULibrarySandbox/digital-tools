@@ -1,5 +1,5 @@
 ---
-section_id: Discovery
+section: Discovery
 nav_order: 3
 title: Automated search
 topics: Citation trees; 
