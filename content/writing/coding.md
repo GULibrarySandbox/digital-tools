@@ -2,7 +2,7 @@
 section_id: Writing
 nav_order: 5
 title: Coding 
-topics: Example Topic; Another Example
+topics: Code editors; Development environments
 description: >
     It might be odd to think of coding as a type of writing or compostion, but that's what it is!
 # youtubeid: moJgWrD6dwg
