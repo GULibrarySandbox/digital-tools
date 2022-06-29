@@ -4,7 +4,7 @@ nav_order: 3
 title: Referencing
 topics: Reference managers
 description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
+    Choosing the right reference manager for your workflow can make a big difference to your experience.
 # youtubeid: moJgWrD6dwg
 ---
  

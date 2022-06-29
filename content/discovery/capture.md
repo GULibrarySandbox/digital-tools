@@ -4,17 +4,11 @@ nav_order: 4
 title: Capture
 topics: Document scanners
 description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
-youtubeid: moJgWrD6dwg
+    Optical scanners and OCR (optical character recognition) have come a long way. You can get just as good quality results from a smartphone app as from most flatbed scanners.
+# youtubeid: moJgWrD6dwg
 ---
 
 {% capture scanners %}
-
-{% capture aboutscanners %}
-
-Optical scanners and OCR (optical character recognition) have come a long way. You can get just as good quality results from a smartphone app as from most flatbed scanners. 
-{% endcapture %}
-{% include alert.html text=aboutscanners color="info" %}
 
 The following apps all scan photos, documents and whiteboards, automatically straighten and crop the image and optionally read the text. They can all create multi-page PDFs. This is incredibly helpful if you are dealing with physical manuscripts or other written material.
 

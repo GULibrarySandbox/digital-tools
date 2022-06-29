@@ -5,22 +5,7 @@ title: Introduction
 
 {% capture outcomes %}
 
-By the end of the workshop, you should be able to: 
-
-- Identify the different digital tools appropriate to various stages of higher degree research;
-- Identify and select at least one new digital tool appropriate to your own research workflow;
-- Explain how research data can be protected using security and backup tools;
-- Demonstrate simple data visualisation techniques using sample data; and
-- Locate ongoing technical and research support from the University.
-
-{% endcapture %}
-
-{% capture header %}{% include icon.html icon='mortarboard-fill' %} Learning outcomes{% endcapture %}
-{% include card.html header=header text=outcomes %}
-
-## Learning Objectives
-
-| Learning Objectives |
+| By the end of the workshop, you should be able to: |
 | -----|
 |Identify the different digital tools appropriate to various stages of higher degree research; |
 | Identify and select at least one new digital tool appropriate to your own research workflow; |
@@ -28,6 +13,11 @@ By the end of the workshop, you should be able to:
 | Demonstrate simple data visualisation techniques using sample data; |
 | Locate ongoing technical and research support from the University. |
 {:.table}
+
+{% endcapture %}
+
+{% capture header %}{% include icon.html icon='mortarboard-fill' %} Learning outcomes{% endcapture %}
+{% include card.html header=header text=outcomes %}
 
 This workshop has five sections, reflecting the phases of research outlined by [Kramer](https://twitter.com/MsPhelps) {% include icon.html icon="twitter" %} and [Bosnan](https://twitter.com/jeroenbosman) {% include icon.html icon="twitter" %} of Utrecht University in their [extensive 2016 study](https://101innovations.wordpress.com) on scholarly tools (Kramer and Bosnan actually use seven phases, but we have simplified it to five).
 
