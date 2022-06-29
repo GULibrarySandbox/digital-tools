@@ -41,7 +41,7 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 # leave these commented out or blank for defaults.
 # these options tweak CSS, so should be valid CSS values.
 #
-# header-background: 
+header-background: "#e30918"
 # header-text-color: 
 # breadcrumbs-background: 
 # breadcrumbs-text-color: 
