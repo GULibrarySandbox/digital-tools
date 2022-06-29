@@ -1,11 +1,11 @@
 ---
 section: Preparation
 nav_order: 3
-title: Organising your thoughts
-topics: Personal knowledge management; Note taking; 
+title: Organisation
+topics: Personal knowledge management; Note taking; Mind maps
 description: >
     This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
-youtubeid: moJgWrD6dwg
+# youtubeid: moJgWrD6dwg
 ---
 
 {% include figure.html img="taking-shape.jpg" alt="Lego stormtroopers building a starship" caption="Getting everything together (image by Reiterlied, licensed under CC BY-NC-SA 2.0)" width="75" float="left" %}
@@ -73,4 +73,4 @@ Free and open-source, fully-featured, highly integrated. What's not to like?
 {% endcapture %}
 {% include card.html header="<i class='fas fa-brain' color='pink'></i> Mind-mapping" text=mindmaps %}
 
-{% include alert.html text="Now that you're completely organised, it's time to look at some tools for [capturing data](2-discovery.md)." color="success" %}
+{% include alert.html text="Now that you're completely organised, it's time to look at some tools for capturing data." color="success" %}
