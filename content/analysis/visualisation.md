@@ -5,7 +5,7 @@ title: Data visualisation
 topics: Tableau; RAWGraphs; PowerBI
 description: >
     No matter what tool you use, you'll need a little bit of training to make good data visualisations.
-youtubeid: moJgWrD6dwg
+# youtubeid: moJgWrD6dwg
 ---
 
 The Library has produced an [online introduction](https://sway.office.com/O9vEKmTmBXPxGOnE) you might find useful.
