@@ -2,7 +2,7 @@
 section: Preparation
 nav_order: 3
 title: Organising your thoughts
-topics: Example Topic; Another Example
+topics: Personal knowledge management; Note taking; 
 description: >
     This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
 youtubeid: moJgWrD6dwg
