@@ -1,15 +1,44 @@
 ---
-section_id: Discovery
+section: Discovery
 nav_order: 3
-title: Citations
-topics: Example Topic; Another Example
+title: Referencing
+topics: Reference managers
 description: >
     This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
-youtubeid: moJgWrD6dwg
+# youtubeid: moJgWrD6dwg
 ---
+ 
+ {% capture text %}
+- [EndNote](https://www.griffith.edu.au/library/study/referencing) is Griffith's supported option. [Workshops](https://www.griffith.edu.au/research/research-services/researcher-education-development/workshop-calendar) and [video resources](vimeo.com/user/82369617/folder/1569944) are available too.
+- [Zotero](https://www.zotero.org) is free and open-source. This makes it a popular option among FOSS enthusiasts.
+- [Mendeley](https://www.mendeley.com) is popular in part because of its inbuilt social network.
 
-As seen above, setting front matter options will create features on the page:
+**Alternative options**
 
-- `topics:` will appear as a small feature below the title (optional). 
-- `description:` will appear as an indented text block below the title (optional). This gives you a chance to summarize the section contents. 
-- `youtubeid:` will add an YouTube video embed (optional). Find the id in the YouTube link. For example, in `https://youtu.be/moJgWrD6dwg` or `https://www.youtube.com/watch?v=moJgWrD6dwg` the youtubeid is `moJgWrD6dwg`.
+These options are popular, but don't come with any support from the University. 
+
+- [Papers](https://www.papersapp.com)
+- [F1000](https://f1000workspace.com/?lg)
+- [BibTex](https://www.bibtex.org)
+
+{% capture bestrefman %}
+**Our recommendation: EndNote**
+
+Not everybody loves using EndNote, but you can get a free copy along with technical support through the University. That makes it worth the price of admission. 
+
+{% endcapture %}
+
+{% include alert.html text=bestrefman color="primary" %}
+
+
+{% capture rurefman %}
+**Runner up: Zotero**
+
+Zotero is Free and Open Source Software (FOSS), has a committed community of users and developers and has plugins that allow it to integrate with other useful apps. The only downside is that there is no support form the University.
+
+{% endcapture %}
+
+{% include alert.html text=rurefman color="info" %}
+
+{% endcapture %}
+{% include card.html header="<i class='fas fa-paperclip'></i> Most popular reference managers" text=text %}
