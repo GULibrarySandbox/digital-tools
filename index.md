@@ -1,17 +1,19 @@
 ---
-title: Lesson Template
+title: Digital Tools for Research
 layout: lesson-content
 ---
 
-A minimal Jekyll theme with sidebar content nav for creating lesson and workshop websites using Markdown.
+Become familiar with a wide range of digital tools available to assist you throughout your research journey.
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="university-drive.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
 
-*Add your workshop abstract here!*
+{% capture workshopinfo %}
 
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
+This site is designed as a companion to [Griffith Library's](https://www.griffith.edu.au/library) Digital Tools for Research workshop, presented in collaboration with Griffith [RED](https://www.griffith.edu.au/research/research-services/researcher-education-development). It can also be treated as a standalone, self-paced tutorial.
+
+{% endcapture %}
+
+{% include alert.html text=workshopinfo align="left" color="info" %}
 
 {% include toc.html %}
 

@@ -3,6 +3,21 @@ nav_order: 1
 title: Introduction
 ---
 
+{% capture outcomes %}
+
+By the end of the workshop, you should be able to: 
+
+- Identify the different digital tools appropriate to various stages of higher degree research;
+- Identify and select at least one new digital tool appropriate to your own research workflow;
+- Explain how research data can be protected using security and backup tools;
+- Demonstrate simple data visualisation techniques using sample data; and
+- Locate ongoing technical and research support from the University.
+
+{% endcapture %}
+
+{% capture header %}{% include icon.html icon='mortarboard-fill' %} Learning outcomes{% endcapture %}
+{% include card.html header=header text=outcomes %}
+
 
 
 <!-- 
