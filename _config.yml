@@ -43,9 +43,9 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 #
 # header-background: 
 # header-text-color: 
-breadcrumbs-background: "#e30918"
+# breadcrumbs-background: 
 # breadcrumbs-text-color: 
-# active-nav-color: 
+active-nav-color: "#e30918"
 # link-color:
 # next-button-color:
 # text-color: 
