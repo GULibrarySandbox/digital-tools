@@ -4,7 +4,7 @@ nav_order: 3
 title: Text analysis 
 topics: Example Topic; Another Example
 description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
+    The analysis of 'text as data' is becoming increasingly commonplace. It is a key aspect of the Digital Humanities field.
 # youtubeid: moJgWrD6dwg
 ---
 
@@ -21,8 +21,6 @@ description: >
 {% include alert.html text=relatedworkshops color="warning" %}
 
 {% capture textanalysis %}
-
-Text and data mining has become a significant part of the `Digital Humanities`.
 
 - **[NVIVO](https://www.griffith.edu.au/student-computing/available-software)**: version 12 integrates with Endnote and other tools
 

@@ -2,9 +2,9 @@
 section: Analysis
 nav_order: 2
 title: Stats
-topics: Example Topic; Another Example
+topics: Quantitive analysis; Qualitative analysis
 description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
+    Most research will involve data of some sort that you will need to analyse and represent.
 # youtubeid: moJgWrD6dwg
 ---
 

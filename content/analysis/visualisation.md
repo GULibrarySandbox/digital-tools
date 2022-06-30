@@ -82,7 +82,7 @@ var myChart = new Chart(ctx, {
 </script>
 {% endcapture %}
 
-{% include card.html header="<i class='fas fa-chart-bar'></i> Sample Chart.js output" text=chartjs %}
+{% include card.html header="<i class='bi bi-chart-bar'></i> Sample Chart.js output" text=chartjs %}
 
 Activity: Want to try out some data visualisation? Of course you do!
 
