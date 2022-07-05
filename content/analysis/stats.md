@@ -59,7 +59,5 @@ The boundaries between qualitative and quantitative tools are becoming blurred. 
 
 {% include accordion.html title1="Bio.tools" text1=biotools %}
 
-{% include alert.html text=otherstats color="info" %}
-
 {% endcapture %}
 {% include card.html header="Looking for more?" text=moretools %}
