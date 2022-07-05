@@ -45,8 +45,21 @@ The boundaries between qualitative and quantitative tools are becoming blurred. 
 
 {% include card.html header="<i class='fas fa-sort-amount-down'></i> Quantitative analysis" text=quant %}
 
-{% capture otherstats %}
-There are potentially other types of application that are not yet identified. 
+----
+
+{% capture moretools %}
+
+{% capture biotools %}
+
+### bio.tools
+
+[bio.tools](https://bio.tools) is a community driven effort to be a comprehensive, standards-based registry of software and resources related to bioinformatics and life sciences.
+
 {% endcapture %}
 
+{% include accordion.html title1="Bio.tools" text1=biotools %}
+
 {% include alert.html text=otherstats color="info" %}
+
+{% endcapture %}
+{% include card.html header="Looking for more?" text=moretools %}
