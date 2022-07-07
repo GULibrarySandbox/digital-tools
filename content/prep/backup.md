@@ -2,7 +2,7 @@
 section_id: Preparation
 nav_order: 2
 title: Backup
-topics: Example Topic; Another Example
+topics: Storage; Reliability; Sync; Backup
 description: >
     Find a place to put your research data. Don't lose it. Keep it secure.
 # youtubeid: moJgWrD6dwg
