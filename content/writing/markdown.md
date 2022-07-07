@@ -10,8 +10,10 @@ description: >
 
 ## Markdown
 
+`Markdown` is a simple and popular text formatting syntax. It has many advantages for academic writing: it is stable, reliable, easy to read and produces plain text files which are easily shared. It's worth becoming familiar with it.
+
 {% capture aboutmarkdown %}
-`Markdown` is a simple and popular text formatting syntax. It has many advantages for academic writing: it is stable, reliable, easy to read and produces plain text files which are easily shared. It's worth becoming familiar with it. This site is written in Markdown.
+This site is written in Markdown.
 {% endcapture %}
 {% include alert.html text=aboutmarkdown color="primary" %}
 

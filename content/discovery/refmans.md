@@ -34,7 +34,7 @@ Not everybody loves using EndNote, but you can get a free copy along with techni
 {% capture rurefman %}
 **Runner up: Zotero**
 
-Zotero is Free and Open Source Software (FOSS), has a committed community of users and developers and has plugins that allow it to integrate with other useful apps. The only downside is that there is no support from the University.
+Zotero is Free and Open Source Software (FOSS), has a committed community of users and developers and has plugins that allow it to integrate with other useful apps. The only downside is that there is no support fro the University.
 
 {% endcapture %}
 
