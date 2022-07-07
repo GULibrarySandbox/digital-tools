@@ -3,8 +3,6 @@ title: Digital Tools for Research
 layout: lesson-content
 ---
 
-Become familiar with a wide range of digital tools available to assist you throughout your research journey.
-
 <!-- {% include figure.html img="university-drive.jpg" alt="intro image here" caption="Library workshop" width="75%" %} -->
 
 {% capture workshopinfo %}

@@ -46,7 +46,7 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 breadcrumbs-background: "#3e3F41" 
   # This is a version of Griffith Grey #75787b at 25% brightness
 # breadcrumbs-text-color: 
-active-nav-color: "#E3CCCD" 
+# active-nav-color: "#E3CCCD" 
   # This is a version of Griffith Red #e30918 at 10% saturation
 # link-color:
 # next-button-color:
