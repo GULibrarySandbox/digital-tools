@@ -32,10 +32,16 @@ All of the programming text editors above support Markdown. Below are some dedic
 
 ## LaTeX
 
-{% capture aboutlatex %}
 `LaTeX` is a text formatting language (like `Markdown`) which is very flexible and robust. It is well suited to scientific and mathematical notation. In LaTeX, document content and structure is separated from formatting and style, so you can work on one without worrying about the other. Here is a [good explanation](https://nitens.org/w/latex/) of why LaTeX is a useful tool for academic and scientific writing.
+
+`BibTeX` is a counterpart program to LaTeX that generates bibilographies for academic and research papers. It can also integrate with the open-source reference manager [Zotero](https://www.zotero.org/). 
+
+{% capture nyulatexguide %}
+
+Check out this helpful [guide to getting started with LaTeX](https://guides.nyu.edu/LaTeX/), published by NYU Library.
+
 {% endcapture %}
-{% include alert.html text=aboutlatex color="primary" %}
+{% include alert.html text=nyulatexguide color="primary" %}
 
 {% capture latextools %}
 
