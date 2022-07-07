@@ -44,7 +44,7 @@ It's much better for reliability to entrust your data storage to a cloud provide
 
 {% endcapture %}
 
-{% include card.html header="<i class='fas fa-sync'></i> Online storage & sync options" text=syncoptions img="storage.png" %}
+{% include card.html header="<i class='fas fa-sync'></i> Online storage & sync options" text=syncoptions img="storage-cropped.png" %}
 ___
 
 ## Keeping more than one perfect copy of your data
