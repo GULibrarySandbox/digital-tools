@@ -1,10 +1,10 @@
 ---
 section: Preparation
 nav_order: 3
-title: Organisation
+title: Organising your thoughts
 topics: Personal knowledge management; Note taking; Mind maps
 description: >
-    This text is a 'section description'. Directly below this is an example section video embed. This demonstrates the front matter options in action.
+    It can help clarify your thinking enormously if you have a trusted system to keep, organise and connect your notes.
 # youtubeid: moJgWrD6dwg
 ---
 
