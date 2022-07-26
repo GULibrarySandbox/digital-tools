@@ -109,7 +109,6 @@ The average number of digital tools in a researcher's toolbox is 22. If you coun
 
 {% include jumbotron.html heading="Preliminary activity" text=activitytext %}
 
-
 <!-- 
 Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
