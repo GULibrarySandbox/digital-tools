@@ -57,4 +57,4 @@ Expect passkeys to become a login option for many of the major technology platfo
 {% include alert.html text=loginalert color="warning" %}
 
 {% endcapture %}
-{% include card.html header="The future is passwordless" text=text %}
+{% include card.html header="The future is passwordless" text=passkeys %}
